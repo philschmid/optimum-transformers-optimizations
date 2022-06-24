@@ -1,0 +1,6 @@
+optimum[onnxruntime]==1.2.3
+evaluate 
+sklearn
+mkl-include
+mkl
+optuna
