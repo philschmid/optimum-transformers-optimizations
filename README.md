@@ -18,6 +18,12 @@ You will learn how to:
 
 Let's get started! 🚀
 
+## Examples
+
+* [DistilBERT](./notebook.ipynb)
+* [Vision Transformers](./vision-transformers.ipynb)
+
+
 ---
 
 ## Setup
