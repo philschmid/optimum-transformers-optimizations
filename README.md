@@ -1,5 +1,12 @@
 # Optimizing Transformers with Optimum
 
+## Examples
+
+* [DistilBERT](./notebook.ipynb)
+* [Vision Transformers](./vision-transformers.ipynb)
+* [Sentence Transformers](./sentence-transformers.ipynb)
+
+
 In this session, you will learn how to optimize Hugging Face Transformers models using Optimum. The session will show you how to dynamically quantize and optimize a DistilBERT model using [Hugging Face Optimum](https://huggingface.co/docs/optimum/index) and [ONNX Runtime](https://onnxruntime.ai/). Hugging Face Optimum is an extension of 🤗 Transformers, providing a set of performance optimization tools enabling maximum efficiency to train and run models on targeted hardware.
 
 Note: dynamic quantization is currently only supported for CPUs, so we will not be utilizing GPUs / CUDA in this session.
@@ -18,10 +25,6 @@ You will learn how to:
 
 Let's get started! 🚀
 
-## Examples
-
-* [DistilBERT](./notebook.ipynb)
-* [Vision Transformers](./vision-transformers.ipynb)
 
 
 ---
